@@ -1,0 +1,25 @@
+name: hautecouture
+description: A small app about the people who shaped the modern world of fashion.
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^3.0.10
+  url_launcher: ^6.0.2
+  loading_animations: ^2.2.0
+  cupertino_icons: ^1.0.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: CormorantBold
+      fonts:
+        - asset: assets/fonts/CormorantBold.ttf
+    - family: CormorantRegular
+      fonts:
+        - asset: assets/fonts/CormorantRegular.ttf
