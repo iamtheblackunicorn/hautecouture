@@ -45,21 +45,9 @@ $ flutter build apk
 
 You have now generated a release build of *Haute Couture*.
 
-## Extending the supported languages :book:
-
-*Haute Couture* is localized for German and English. To add a language, simply create a filed called `app_languagecode.arb` in `lib/l10n` where `languagecode` represents the languagecode for the language you want to add. If it were Spanish for example, you would create a file called `app_es.arb`.
-Copy and paste the contents from one of the other `*.arb` files and edit the strings accordingly.
-Finally, add this line in the list `supportedLocales` in the file `lib/main.dart`.
-
-```dart
-const Locale('languagecode', ''),
-```
-
-`languagecode` represents the language you are translating for.
-
 ## Changelog :black_nib:
 
-### Version 1.0.0: Initial Release:
+### Version 1.0.0: Spring SS21
 
 - upload to GitHub
 - polishing of the logic
