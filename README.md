@@ -13,7 +13,7 @@ I was shopping for some accessories the other day and was also out of ideas for 
 ## Download :inbox_tray:
 
 - *Spring SS21* (v.1.0.0):
-  - [Download for Android](https://github.com/iamtheblackunicorn/theMansion/releases/download/v.1.0.0/HauteCouture-v1.0.0-SpringSS21-Release.apk) (16.9 MB)
+  - [Download for Android](https://github.com/iamtheblackunicorn/hautecouture/releases/download/v.1.0.0/HauteCouture-v1.0.0-SpringSS21-Release.apk) (16.9 MB)
 
 ## Building :hammer:
 
