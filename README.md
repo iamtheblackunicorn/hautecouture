@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="https://github.com/iamtheblackunicorn/hautecouture/raw/main/assets/images/banner.png"/>
+</p>
+
 # HAUTE COUTURE :dark_sunglasses:
 
 *A small app about the people who shaped the modern world of fashion.* :dark_sunglasses:
@@ -8,8 +12,8 @@ I was shopping for some accessories the other day and was also out of ideas for 
 
 ## Download :inbox_tray:
 
-- *Fall SS21* (v.1.0.0):
-  - [Download for Android](https://github.com/iamtheblackunicorn/theMansion/releases/download/v.1.0.0/HauteCouture-v1.0.0-FallSS21-Release.apk) (18.2 MB)
+- *Spring SS21* (v.1.0.0):
+  - [Download for Android](https://github.com/iamtheblackunicorn/theMansion/releases/download/v.1.0.0/HauteCouture-v1.0.0-SpringSS21-Release.apk) (16.9 MB)
 
 ## Building :hammer:
 

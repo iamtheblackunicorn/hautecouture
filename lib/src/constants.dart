@@ -1,3 +1,8 @@
+/*
+Haute Couture by Alexander Abraham, The Black Unicorn.
+Licensed under the MIT license.
+*/
+
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 
@@ -22,3 +27,10 @@ String errorMessage = 'Error!\nTry again later!';
 
 
 /// Fashion house screen variables.
+String visitWebsite = 'Visit website!';
+double coverImageSize = 250;
+double alignmentVectorOne = 0.2;
+double alignmentVectorTwo = 0.8;
+double defaultPadding = 20;
+double defaultRounding = 25;
+double boxSpacing = 50;

@@ -1,3 +1,8 @@
+/*
+Haute Couture by Alexander Abraham, The Black Unicorn.
+Licensed under the MIT license.
+*/
+
 import 'data.dart';
 import 'error.dart';
 import 'brand.dart';

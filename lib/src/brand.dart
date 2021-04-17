@@ -1,3 +1,8 @@
+/*
+Haute Couture by Alexander Abraham, The Black Unicorn.
+Licensed under the MIT license.
+*/
+
 import 'constants.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -60,17 +65,17 @@ class FashionHouseState extends State<FashionHouse>{
               children: <Widget>[
                 new Image.network(
                   '$logo',
-                  height: 250,
+                  height: coverImageSize,
                   width: double.infinity,
                   fit: BoxFit.cover,
                 ),
                 new Positioned(
-                  bottom: 0.2,
-                  left: 0.2,
+                  bottom: alignmentVectorOne,
+                  left: alignmentVectorOne,
                   child: Align(
-                    alignment: Alignment(-0.8, 0.8),
+                    alignment: Alignment(-alignmentVectorTwo, alignmentVectorTwo),
                     child: Padding(
-                      padding: EdgeInsets.all(20),
+                      padding: EdgeInsets.all(defaultPadding),
                       child: Text(
                         '$designer',
                         style: TextStyle(
@@ -87,16 +92,16 @@ class FashionHouseState extends State<FashionHouse>{
             ),
 
             new Padding(
-              padding: EdgeInsets.all(20),
+              padding: EdgeInsets.all(defaultPadding),
               child: new Card(
                 color: accentColor,
                 shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(25)
+                  borderRadius: BorderRadius.circular(defaultRounding)
                 ),
                 child: new Column(
                   children:<Widget> [
                     new Padding(
-                      padding: EdgeInsets.all(20),
+                      padding: EdgeInsets.all(defaultPadding),
                       child: new Text(
                         '$description',
                         style: TextStyle(
@@ -107,16 +112,16 @@ class FashionHouseState extends State<FashionHouse>{
                       )
                     ),
                     new SizedBox(
-                      height:50
+                      height:boxSpacing
                     ),
                     new RaisedButton(
                       shape: RoundedRectangleBorder(
-                        borderRadius: BorderRadius.circular(25)
+                        borderRadius: BorderRadius.circular(defaultRounding)
                       ),
                       color: mainColor,
-                      padding: EdgeInsets.all(20),
+                      padding: EdgeInsets.all(defaultPadding),
                       child: new Text(
-                        'Visit website',
+                        '$visitWebsite',
                         style: TextStyle(
                           color: accentColor,
                           fontSize: defaultFontSize,
@@ -130,7 +135,7 @@ class FashionHouseState extends State<FashionHouse>{
                       }
                     ),
                     new SizedBox(
-                      height:50
+                      height:boxSpacing
                     ),
                   ]
                 )
