@@ -14,6 +14,7 @@ I was shopping for some accessories the other day and was also out of ideas for 
 
 - *Spring SS21* (v.1.0.0):
   - [Download for Android](https://github.com/iamtheblackunicorn/hautecouture/releases/download/v.1.0.0/HauteCouture-v1.0.0-SpringSS21-Release.apk) (16.9 MB)
+  - [Download for Mac OSX](https://github.com/iamtheblackunicorn/hautecouture/releases/download/v.1.0.0/HauteCouture-v1.0.0-SpringSS21.app.zip) (12.36 MB)
 
 ## Building :hammer:
 
