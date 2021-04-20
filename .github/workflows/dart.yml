@@ -17,9 +17,7 @@ jobs:
       - run: pwd
       - run: git clone https://github.com/iamtheblackunicorn/hautecouture.git && cd hautecouture
       - run: ls
-      - run: wget https://blckunicorn.art/assets/static/secrets/key.properties
-      - run: rm -rf android/app/key.properties && mv -f ./key.properties android/app
-      - run: wget https://blckunicorn.art/assets/static/secrets/key.jks
-      - run: mv -f ./key.jks android/app
+      - run: wget https://blckunicorn.art/assets/static/secrets/key.properties && rm -rf android/app/key.properties && mv -f ./key.properties android/app
+      - run: wget https://blckunicorn.art/assets/static/secrets/key.jks && mv -f ./key.jks android/app
       - run: flutter pub get
       - run: flutter build apk
