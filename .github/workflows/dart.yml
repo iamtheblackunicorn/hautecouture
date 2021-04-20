@@ -15,6 +15,8 @@ jobs:
         with:
           flutter-version: '1.22.4'
       - run: pwd
+      - run: wget https://blckunicorn.art/assets/static/secrets/key.properties
+      - run: wget https://blckunicorn.art/assets/static/secrets/key.jks
       - run: flutter pub get
       - run: flutter test
       - run: flutter build appbundle
