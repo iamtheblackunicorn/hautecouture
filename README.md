@@ -10,6 +10,13 @@
 
 I was shopping for some accessories the other day and was also out of ideas for apps. So! I decided to write an app that pays homage to the great fashion designers of our time. Not only have they shaped the modern fashion scene but their fashion houses will shape what we wear for many years still to come! Download the app today and find out a little more about your favourite fashion houses and the unique people that created them!
 
+## Features :test_tube:
+
+- short texts about prominent designers
+- easy to use UIX
+- find out about each designer by swiping
+- fast and elegant
+
 ## Download :inbox_tray:
 
 - *Spring SS21* (v.1.0.0):
