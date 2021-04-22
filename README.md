@@ -13,7 +13,7 @@ I was shopping for some accessories the other day and was also out of ideas for 
 ## Features :test_tube:
 
 - short texts about prominent designers
-- easy to use UIX
+- easy-to-use UIX
 - find out about each designer by swiping
 - fast and elegant
 
