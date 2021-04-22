@@ -16,6 +16,10 @@ I was shopping for some accessories the other day and was also out of ideas for 
   - [Download for Android](https://github.com/iamtheblackunicorn/hautecouture/releases/download/v.1.0.0/HauteCouture-v1.0.0-SpringSS21-Release.apk) (16.9 MB)
   - [Download for Mac OSX](https://github.com/iamtheblackunicorn/hautecouture/releases/download/v.1.0.0/HauteCouture-v1.0.0-SpringSS21.app.zip) (12.36 MB)
 
+## Google Play :robot:
+
+[![Get it on Google Play!](https://blckunicorn.art/assets/images/static/GooglePlayDownload.png)](https://play.google.com/store/apps/details?id=com.blackunicorn.hautecouture)
+
 ## Building :hammer:
 
 Make sure that you have the following programmes installed:
